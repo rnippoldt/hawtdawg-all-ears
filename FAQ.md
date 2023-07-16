@@ -10,9 +10,13 @@ For those who are camera-shy, we recommend posting ast least one to bring your p
 
 Showcase your best self-whether that means a fresh-from-the-groomer glamour shot or an action shot from your last game of fetch. 
 
+<<<<<<< HEAD
 The end
 
 
 
 
 
+=======
+My ending - s
+>>>>>>> 99d040062c3ebf5653f1a04005fc4adf92a16d5a
